@@ -39,7 +39,7 @@ export default function Service2PriceList(){
                         <div className="price-list-details-services-item">
                             <div className="price-list-details-services-name">
                                 <h3 className="price-list-details-services-name">
-                                    {serviceList2.service6}
+                                    {serviceList2.service8}
                                 </h3>
                                 <span className="price-list-details-services-name-notice">
                                     
@@ -47,12 +47,12 @@ export default function Service2PriceList(){
                             </div>
                             <div className="price-list-details-services-time">
                                 <span className="price-list-details-services-time">
-                                    {serviceList2.service6Time}
+                                    {serviceList2.service8Time}
                                 </span>
                             </div>
                             <div className="price-list-details-services-description">
                                 <span className="price-list-details-services-description">
-                                    {serviceList2.service6Description}
+                                    {serviceList2.service8Description}
                                 </span>
                             </div>
                         </div>
@@ -61,7 +61,7 @@ export default function Service2PriceList(){
                                 
                             </span>
                             <span className="price-list-details-services-price">
-                               £{serviceList2.service6Price}
+                               £{serviceList2.service8Price}
                             </span>
                         </div>
                     </div>

@@ -124,16 +124,7 @@ export default function Service6PriceList(){
                            £{serviceList6.service3Price}
                         </span>
                     </div>
-                </div>
-                
-                
-                
-                
-                
-               
-                
-                
-                
+                </div>    
             </div>
         </div>
         </>
