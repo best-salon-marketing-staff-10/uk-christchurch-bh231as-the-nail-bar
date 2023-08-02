@@ -433,9 +433,9 @@ serviceList
   
     schemaPriceRange: "££",
     //Cần đổi tên khách
-    schemaPersonReviewAuthorName: "",
-    //Xem điểm review trung bình của tiệm là bao nhiêu
-    schemaRatingValue: "",
+    schemaPersonReviewAuthorName: "Tina Kirby",
+    //Xem điểm review trung bình của tiệm là bao nhiêu  
+    schemaRatingValue: "5",
     schemaBestRating: "5",
   
     schemaGeoLatitude: 50.7337416093408,
