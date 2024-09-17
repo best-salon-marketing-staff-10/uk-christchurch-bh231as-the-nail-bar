@@ -115,7 +115,7 @@ serviceList
     businessWebsite: "https://thenailbarchristchurch.web.app",
   
     linkBookingMap: "",
-    linkBookingApp: "https://bit.ly/49L5jeq",
+    linkBookingApp: "https://joybookings.com/thenailbar/booking",
     linkToMap: "https://goo.gl/maps/XTJdjs8FKN1swLTH7",
   
     
